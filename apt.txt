@@ -1,3 +1,2 @@
 vim
 nano
-default-jdk
